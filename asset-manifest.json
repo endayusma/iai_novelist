@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/iai_novelist/static/css/main.282b32d5.chunk.css",
+    "main.js": "/iai_novelist/static/js/main.2450e21a.chunk.js",
+    "main.js.map": "/iai_novelist/static/js/main.2450e21a.chunk.js.map",
+    "runtime-main.js": "/iai_novelist/static/js/runtime-main.55c3fdb3.js",
+    "runtime-main.js.map": "/iai_novelist/static/js/runtime-main.55c3fdb3.js.map",
+    "static/css/2.1bd2ab2f.chunk.css": "/iai_novelist/static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.630010d5.chunk.js": "/iai_novelist/static/js/2.630010d5.chunk.js",
+    "static/js/2.630010d5.chunk.js.map": "/iai_novelist/static/js/2.630010d5.chunk.js.map",
+    "index.html": "/iai_novelist/index.html",
+    "precache-manifest.7de120ba501145c22ad40a904d3d9319.js": "/iai_novelist/precache-manifest.7de120ba501145c22ad40a904d3d9319.js",
+    "service-worker.js": "/iai_novelist/service-worker.js",
+    "static/css/2.1bd2ab2f.chunk.css.map": "/iai_novelist/static/css/2.1bd2ab2f.chunk.css.map",
+    "static/css/main.282b32d5.chunk.css.map": "/iai_novelist/static/css/main.282b32d5.chunk.css.map",
+    "static/js/2.630010d5.chunk.js.LICENSE.txt": "/iai_novelist/static/js/2.630010d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55c3fdb3.js",
+    "static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.630010d5.chunk.js",
+    "static/css/main.282b32d5.chunk.css",
+    "static/js/main.2450e21a.chunk.js"
+  ]
+}
